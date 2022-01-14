@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gabrielerosati.github.io/static/css/main.e072b54b.css",
+    "main.js": "/gabrielerosati.github.io/static/js/main.d2d08468.js",
+    "index.html": "/gabrielerosati.github.io/index.html",
+    "main.e072b54b.css.map": "/gabrielerosati.github.io/static/css/main.e072b54b.css.map",
+    "main.d2d08468.js.map": "/gabrielerosati.github.io/static/js/main.d2d08468.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e072b54b.css",
+    "static/js/main.d2d08468.js"
+  ]
+}
