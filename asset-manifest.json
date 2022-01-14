@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/gabrielerosati.github.io/static/css/main.e072b54b.css",
-    "main.js": "/gabrielerosati.github.io/static/js/main.d2d08468.js",
+    "main.js": "/gabrielerosati.github.io/static/js/main.b576b670.js",
+    "static/media/dExhibition.png": "/gabrielerosati.github.io/static/media/dExhibition.8a9571e1fec3f1ac92eb.png",
+    "static/media/crowdcoin2R.png": "/gabrielerosati.github.io/static/media/crowdcoin2R.054742671f0415313309.png",
+    "static/media/io.jpg": "/gabrielerosati.github.io/static/media/io.d4d1b05daa03b6e3a495.jpg",
     "index.html": "/gabrielerosati.github.io/index.html",
     "main.e072b54b.css.map": "/gabrielerosati.github.io/static/css/main.e072b54b.css.map",
-    "main.d2d08468.js.map": "/gabrielerosati.github.io/static/js/main.d2d08468.js.map"
+    "main.b576b670.js.map": "/gabrielerosati.github.io/static/js/main.b576b670.js.map"
   },
   "entrypoints": [
     "static/css/main.e072b54b.css",
-    "static/js/main.d2d08468.js"
+    "static/js/main.b576b670.js"
   ]
 }
