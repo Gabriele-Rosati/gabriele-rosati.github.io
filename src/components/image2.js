@@ -1,5 +1,6 @@
 import React from 'react'
 import { Container, Grid, Header, Image, Segment } from 'semantic-ui-react'
+import Myimage from '../images/io.jpg'
 
 const style = {
   h1: {
@@ -24,7 +25,7 @@ const GridExampleColumnCount = () => (
           <p style={style.h2}>I am attending the second year of computer engineering at the University of Siena. My main interests are in videogames and the world of blockchain. I started programming in the solidity language by following an online course and collaborating with a senior developer. </p>
       </Grid.Column>
       <Grid.Column>
-        <Image src='/images/io.jpg' centered circular size='medium'/>
+        <Image src={Myimage} centered circular size='medium'/>
       </Grid.Column>
       <Grid.Column textAlign='center'>
           <Header style={style.h1}>Details</Header>

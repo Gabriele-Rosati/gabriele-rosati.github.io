@@ -1,5 +1,7 @@
 import React from 'react'
 import { Button, Card, Image, Icon, Divider, Header } from 'semantic-ui-react'
+import dExhibition from '../images/dExhibition.png'
+import CrowdCoin from '../images/crowdcoin2R.png'
 
 
 
@@ -34,7 +36,7 @@ const CardExampleGroups = () => (
           <Image
             verticalAlign='top'
             size='huge'
-            src='/images/dExhibition.png'
+            src={dExhibition}
           />
           <Divider/>
           <Card.Header>dExhibition</Card.Header>
@@ -57,7 +59,7 @@ const CardExampleGroups = () => (
           <Divider/>
           <Image
             size='huge'
-            src='/images/crowdcoin2R.png'
+            src={CrowdCoin}
           />
           <Divider/>
           <Card.Header>CrowdCoin</Card.Header>
